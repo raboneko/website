@@ -34,5 +34,7 @@
     "ease_of_use_desc": "Terra 和其他软件仓库一样易用；对开发者而言，为 Terra 贡献更是易如反掌。我们直接于其他项目合作，满足各界需求，令 Terra 的一切顺水推舟。",
     "secure": "安全",
     "secure_desc": "软件包在 Fyra Labs 维护的安全环境下构建。通过我们现代的工具、公开透明的平台、仔细的审核过程，我们避免问题发生。",
-    "site_desc": "Terra 是一个社区 Fedora 软件仓库，令你轻松安装及维护软件包。"
+    "site_desc": "Terra 是一个社区 Fedora 软件仓库，令你轻松安装及维护软件包。",
+    "supported_distros_title": "使用 Terra 的发行版",
+    "supported_distros_desc": "Terra 为整个 Fedora 生态提供软件包和核心系统组件。"
 }
